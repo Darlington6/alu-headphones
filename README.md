@@ -1,0 +1,1 @@
+In this project, I am implementing from scratch, without any library, a web page. I used all HTML/CSS/Accessibility/Responsive design knowledges that I learned previously and in the Advanced Front-End Development module.
